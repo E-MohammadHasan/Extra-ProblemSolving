@@ -10,15 +10,6 @@ I actively solve problems on **Codeforces** — one of the most popular platform
 
 ---
 
-## 📌 What's inside (Coming Soon)
 
-This folder may include:
-- 📁 Categorized solutions (optional)
-- 📑 Notes on algorithms and techniques
-- 📊 Progress tracking & contest summaries
-
-> For now, you can follow my live progress directly through Codeforces.
-
----
 
 
